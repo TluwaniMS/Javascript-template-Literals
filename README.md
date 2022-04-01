@@ -12,6 +12,6 @@ const preferredName = "Mthimbana";
 const message = `His name is "${name}", but he prefers to be called "${preferredName}".`;
 
 console.log(message);
-///Will print:
-His name is "Themba", but he prefers to be called "Mthimbana".
+/// Will print:
+/// His name is "Themba", but he prefers to be called "Mthimbana".
 ```
